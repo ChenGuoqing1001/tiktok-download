@@ -5,3 +5,6 @@
 
 
 <a href="https://github.com/ChenGuoqing1001/tiktok-download/releases" target="_blank">下载地址</a>
+
+
+<a href="https://play.google.com/store/apps/details?id=com.chen.douyin_downloader" target="_blank">Google Play 下载地址</a>
